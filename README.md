@@ -51,7 +51,7 @@ This hook is one piece of a fuller operating kernel for Claude Code
 (response-mode selection, risk-tiered gating, epistemic tagging on claims,
 session continuity) — `sample-rules/03-routing.md` in this repo is one
 module from it. The complete kernel is a separate paid download:
-**[link to be added once the listing is live]**.
+**https://gerasimos7.gumroad.com/l/kmnicl** ($29/€29 one-time).
 
 ## License
 
